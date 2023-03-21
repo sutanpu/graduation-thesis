@@ -1,4 +1,4 @@
-GPSDataclean.csvは時刻,緯度経度をまとめたデータ様々な路線のデータが入っている
+GPSDataclean.csvは時刻,緯度経度をまとめたデータ様々な路線のデータが入っている<br>
 bus_clean_nos.csvはGPSdataを用い,大鰐線のバス停付近のみで構成されたデータに路線から一番近い10ｍ区切りの点を与えたデータ
 oowani_stop.csvは大鰐線の緯度経度,時刻表をまとめたデータ
 oowani_stop_nos.csvは上記のデータより10m区切りの点を与えたデータ
